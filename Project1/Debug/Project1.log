@@ -1,0 +1,15 @@
+﻿Build started 12/27/2017 12:20:52 AM.
+     1>Project "C:\Users\YorickDigsGraves\Desktop\Projhect DX-Ball\project xD ball\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\New folder\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+       Link:
+         E:\New folder\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\YorickDigsGraves\Desktop\Projhect DX-Ball\project xD ball\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\YorickDigsGraves\Desktop\Projhect DX-Ball\project xD ball\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\YorickDigsGraves\Desktop\Projhect DX-Ball\project xD ball\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\iMain.obj
+         Glaux.lib
+         GLUT32.LIB
+         Project1.vcxproj -> C:\Users\YorickDigsGraves\Desktop\Projhect DX-Ball\project xD ball\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\YorickDigsGraves\Desktop\Projhect DX-Ball\project xD ball\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.33
